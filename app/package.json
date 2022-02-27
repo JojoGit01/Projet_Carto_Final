@@ -2,7 +2,7 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jojogit01.github.io/proj-carto_avinisme",
+  "homepage": "http://jojogit01.github.io/Projet_Carto_Final",
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
