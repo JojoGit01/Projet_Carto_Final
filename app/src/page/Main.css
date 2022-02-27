@@ -1,0 +1,10 @@
+.Main {
+    background: #a0acbe ;
+    border: 10px solid #62789a;
+    border-radius: 15px;
+    box-shadow: 6px 6px 6px black inset;
+}
+
+.Globe, .scene-container, .Globe > canvas{
+    width: 100%
+}
